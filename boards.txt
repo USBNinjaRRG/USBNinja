@@ -1,0 +1,14 @@
+menu.cpu=Processor
+usbninja.name=USB Ninja cable (BLE+Hall sensor)
+usbninja.upload.using=micronucleusprog
+usbninja.upload.protocol=usb
+usbninja.upload.tool=micronucleus
+usbninja.upload.maximum_size=5882
+usbninja.build.mcu=attiny85
+usbninja.build.f_cpu=16500000L
+usbninja.build.board=AVR_USBNinja
+usbninja.build.core=tiny
+usbninja.build.variant=USBNinja
+usbninja.upload.wait_for_upload_port = false
+usbninja.upload.use_1200bps_touch = false
+usbninja.upload.disable_flushing = false

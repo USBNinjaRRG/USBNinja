@@ -1,0 +1,16 @@
+NinjaSoftSerial	KEYWORD1
+USBninjaOnline	KEYWORD1
+USBninjaOffline	KEYWORD1
+SetBLEtoWorkingMode	KEYWORD1
+SetBLEtoSetupMode	KEYWORD1
+
+begin	KEYWORD2
+end	KEYWORD2
+read	KEYWORD2
+available	KEYWORD2
+isListening	KEYWORD2
+overflow	KEYWORD2
+flush	KEYWORD2
+listen	KEYWORD2
+txMode	KEYWORD2
+rxMode	KEYWORD2
