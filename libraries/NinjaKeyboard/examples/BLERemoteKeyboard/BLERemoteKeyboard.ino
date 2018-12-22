@@ -1,3 +1,4 @@
+//#define LAYOUT_TURKISH  //Add this line before include can switch Keyboard layout.
 #include <NinjaKeyboard.h>
 
 
