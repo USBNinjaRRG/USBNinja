@@ -1,5 +1,5 @@
 name=USB Ninja boards
-version=1.0.1
+version=1.0.2
 # Default "compiler.path" is correct, change only if you want to overidde the initial value
 compiler.path={runtime.tools.avr-gcc.path}/bin/
 compiler.c.cmd=avr-gcc
